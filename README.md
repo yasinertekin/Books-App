@@ -1,4 +1,4 @@
-# flutter_book_store
+# flutter Movie App
 
 A new Flutter project.
 
