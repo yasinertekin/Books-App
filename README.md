@@ -1,4 +1,4 @@
-# flutter Movie App
+# Flutter Books App
 
 A new Flutter project.
 
