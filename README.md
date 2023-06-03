@@ -4,7 +4,7 @@ A new Flutter project.
 
 # Ekran Görüntüleri
 
-![github](/assets/images/screen.jpg)
+![github](/assets/images/screenshot.jpg)
 
 ## Getting Started
 
